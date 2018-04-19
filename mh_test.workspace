@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="mh_test" Database="" Version="10.0.0">
+  <Project Name="mh_test" Path="mh_test.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment>CXX=codelite-cc clang++
+CC=codelite-cc clang</Environment>
+      <Project Name="mh_test" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="mh_test" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
